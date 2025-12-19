@@ -15,11 +15,10 @@ Adult registrants run at 9:30 am or 11:00 am.
 Early adults run at 9:30 am.
 Late adults run at 11:00 am.
 Youth registrants run at 12:30 pm (regardless of registration).
-But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project.
+But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of
+ the project.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck” to see a project walkthrough video.
-
-Code review available when you’re done*/
+*/
 
 let raceNumber = Math.floor(Math.random() * 1000);
 const registerEarly = false;
